@@ -10,7 +10,7 @@ Aplikasi web yang dirancang untuk mengelola alur pemesanan dan pengiriman produk
 </p>
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x450.png?text=Screenshot+Dashboard+Admin" alt="Tampilan Aplikasi Kue Pandan Asli" width="80%">
+  <img src="https://ik.imagekit.io/cl6bug31k/preview.jpeg?updatedAt=1753675527882" alt="Tampilan Aplikasi Kue Pandan Asli" width="80%">
 </p>
 
 ## 📋 Tentang Proyek
